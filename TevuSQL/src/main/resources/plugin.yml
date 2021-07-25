@@ -1,0 +1,5 @@
+name: TevuSQL
+version: ${project.version}
+main: tev.tevusql.Main
+api-version: 1.17
+description: Tevuori

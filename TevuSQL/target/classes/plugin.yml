@@ -1,0 +1,5 @@
+name: TevuSQL
+version: 1.0-SNAPSHOT
+main: tev.tevusql.Main
+api-version: 1.17
+description: Tevuori
